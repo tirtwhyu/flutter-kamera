@@ -1,9 +1,8 @@
 # Tugas
 
-#Screenshots
-![tugas1](https://github.com/user-attachments/assets/515d78f1-2cc3-4988-820e-318178734b46)
-![tugas2](https://github.com/user-attachments/assets/d17e487f-588e-45ef-a330-a2f33929c0f2)
-![tugas3](https://github.com/user-attachments/assets/5c7ebf4e-047a-44fc-806f-7b3a85fea84a)
+# Screenshots
+![tugas1](https://github.com/tirtwhyu/flutter-kamera/blob/main/image/capture1.jpg)
+![tugas2](https://github.com/tirtwhyu/flutter-kamera/blob/main/image/capture2.jpg)
 
 1. Jelaskan maksud void async pada praktikum 1?
  void: Menyatakan bahwa sebuah fungsi tidak mengembalikan nilai. Jadi, jika sebuah fungsi memiliki tipe pengembalian void, itu berarti fungsi tersebut tida k menghasilkan nilai atau hasil.
